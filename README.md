@@ -1,6 +1,7 @@
 # RummiKubU0N
 
-#### 1. no joker
+####
+1. no joker
 2. no Timelimt
 3. 15 cards instead * 5 Colors 75
 4. 1 deck for Now 
